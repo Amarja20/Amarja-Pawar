@@ -42,7 +42,7 @@
 
 ### 📊 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" style="width: 100%;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" style="width: 50%;" />
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
