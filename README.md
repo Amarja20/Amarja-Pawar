@@ -1,4 +1,5 @@
 # Hi there 👋 
+![Profile Views](https://komarev.com/ghpvc/?username=_amarja&color=blue)
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
