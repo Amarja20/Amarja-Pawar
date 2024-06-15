@@ -38,9 +38,11 @@
 - [React&#39;s Future: Tejas Kumar on Server Components](https://www.youtube.com/watch?v=zn-nFWDxyiw)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
-
 ---
+
+### 📊 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" style="width: 100%;" />
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
