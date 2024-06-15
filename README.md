@@ -1,6 +1,10 @@
-# Hi there 👋 
+# Hi there, I am Amarja Pawar 👋 
 
 I am a passionate Full Stack Software Developer with a strong background in building scalable and high-performance web applications. I love to explore new technologies and apply them in real-world projects.
+- 🌍 Based in London, United Kingdoms
+- 🎓 Masters in Computer Science at Queem Mary University of London
+- 🛠️ Experienced in 5 years of software development
+- 🌐 Check out my 
 
 ### Languages and Tools:
 
