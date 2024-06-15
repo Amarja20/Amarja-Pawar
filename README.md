@@ -1,13 +1,6 @@
 # Hi there 👋 
-![Profile Views](https://komarev.com/ghpvc/?username=amarja20&color=blue) [![Repositories](https://img.shields.io/github/search/amarja20/repos)](https://github.com/amarja20?tab=repositories)
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
-
+I am a passionate Full Stack Software Developer with a strong background in building scalable and high-performance web applications. I love to explore new technologies and apply them in real-world projects.
 
 ### Languages and Tools:
 
