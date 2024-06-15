@@ -1,5 +1,5 @@
 # Hi there 👋 
-![Profile Views](https://komarev.com/ghpvc/?username=amarja20&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=amarja20&color=blue) [![Repositories](https://img.shields.io/github/search/amarja20/repos)](https://github.com/amarja20?tab=repositories)
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
